@@ -1,4 +1,4 @@
-<h2>Social Problem Revealer<h2>
+<h2>Social Problem Revealer</h2>
 <hr>
 <p>As a name This project is made for the social problems.
 The idea behind this project is This system is creating bridege between muncipality and the peoples where people can upload their problems which displayed on muncipality dashboard(admin side). Admin can change the Status of the problem according to the updation in the work of problems.<p>
