@@ -1,0 +1,9 @@
+//admin login
+username: admin
+password: 1234
+
+//user login
+username: abhijit@gmail.com
+password: 1234
+
+//extract database in phpmyadmin as cms
